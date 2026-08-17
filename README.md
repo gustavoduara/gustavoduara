@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gustavo Duara, tenho 19 anos e sou natural de Rio do Sul. Atualmente, estou cursando Ciencia da cmputação no IFSC. Conclui o curso da Academia do programador em 2025 
+Me chamo Gustavo Duara, tenho 19 anos e sou natural de Rio do Sul. Atualmente, estou cursando Ciencia da computação no IFSC. Conclui o curso da Academia do programador em 2025 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
