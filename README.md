@@ -81,11 +81,11 @@ Me chamo Gustavo Duara, tenho 19 anos e sou natural de Rio do Sul. Atualmente, e
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <br/>
